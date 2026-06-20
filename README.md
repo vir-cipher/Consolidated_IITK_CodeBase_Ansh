@@ -1,24 +1,15 @@
 # Consolidated_IITK_CodeBase_Ansh
 
-Hi, I'm Ansh. I spent more of school building robots and small programs than memorising textbooks, and lately I've been turning that habit toward cybersecurity. I did a lot of this tinkering in earlier classes and never thought to save it — so I'm rebuilding and documenting it properly now.
+I'm Ansh - The Shriram Millennium School, Noida; ICSE Class X (2024), 88 in Computer Applications; RoboCup Junior in Class X. I've always liked building things more than memorising them.
 
-I'm early on the formal side, so a few things here are rough — but it's all mine and it runs.
+I'm pulling my coding and security work into one repo so it's all in one place. I'm honestly early on the security side - this is a beginner's set of small tools I rebuilt to understand how they actually work. All my own code, and all of it runs.
 
 ## What's inside
-| Folder | What it is |
-|---|---|
-| `crypto/` | hiding a message inside an image (steganography) |
-| `forensics/` | reading what a photo secretly stores (EXIF) + a file-tamper checker |
-| `ml-phishing/` | a small machine-learning model that flags phishing sites — my favourite |
-| `ctf-writeups/` | how I solved a few beginner picoCTF challenges |
-| `evidence/` | scans of my older robotics / coding-contest certificates |
-| `about/` | a bit about me + links |
+- `crypto/` - LSB image steganography: `encode.py` hides a message in a picture, `decode.py` reads it back. Run `make_test_image.py` first if you don't have a PNG handy.
+- `forensics/` - an EXIF metadata reader and a SHA-256 file-integrity checker.
+- `ml-phishing/` - a scikit-learn decision tree that flags phishing URLs (uses the public UCI dataset).
+- `ctf-writeups/` - where I document my picoCTF solves as I do them.
+- `evidence/` - my ICSE Class X marksheet and RoboCup Junior certificate.
+- `about/` - a bit about me.
 
-## Platforms & handles
-- **picoCTF** — challenges solved (public profile): play.picoctf.org/users/vir-cipher
-- **TryHackMe** — rooms completed + badge (public): tryhackme.com/p/vir-cipher
-- **Boot.dev** — Python / backend course (public): boot.dev/u/vir-cipher
-- **OverTheWire Bandit** — Linux levels reached; no public profile, so see notes + screenshots in `ctf-writeups/`
-- Older robotics & coding certificates: `evidence/`
-
-*New repo, June 2026 — first time I'm putting years of tinkering online.*
+I learned each tool from a public tutorial (credited in the file) and rewrote it in my own words. Early days - I keep adding to it. Handles being set up under **vir-cipher** (picoCTF / TryHackMe / Boot.dev) as I build a track record.

@@ -1,9 +1,8 @@
 # About Ansh
-Class of 2026 (CBSE). Now CSE (AI & ML), SRM. I build things — robots, small apps, and lately security tools.
 
-- CBSE Class X: `[__%]`, Computer Applications `[__/100]`
-- Robotics: `[ATL Marathon / WRO / FLL — year]`
-- Coding/olympiad: `[SOF NCO, contest — year]`
-- Links: GitHub `[ ]` · picoCTF `[ ]` · TryHackMe `[ ]`
+Ansh Vir Bhargav · The Shriram Millennium School, Noida.
 
-(Full story + certificates in `evidence/`.)
+- ICSE Class X (2024): 88 in Computer Applications, 83 in Science.
+- RoboCup Junior - North India regional, Rescue Line category (December 2022).
+- Starting out in cybersecurity - building small tools and writing up what I learn.
+- All my code is in this repo. picoCTF / TryHackMe / Boot.dev handles being set up under vir-cipher.
