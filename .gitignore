@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+baseline.json
+input.png
+secret.png

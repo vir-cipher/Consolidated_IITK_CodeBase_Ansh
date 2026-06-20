@@ -1,13 +1,16 @@
 # [Challenge name] — [category]
-**Points:** [ ]  ·  **Event:** picoGym
+**Points:** [ ]  ·  **Event:** picoGym  ·  **Date:** [YYYY-MM-DD]
 
 ## What it asked
-[one line]
+[One line.]
 
 ## What I tried
-[steps in my own words]
+[The steps I took, in my own words. Commands in a code block if useful.]
+```
+[commands here]
+```
 
 ## Why it worked
-[the idea I learned]
+[The idea I learned.]
 
 Flag: `picoCTF{<redacted>}`

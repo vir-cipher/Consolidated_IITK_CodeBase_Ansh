@@ -1,10 +1,11 @@
 # evidence/ — my older work (real, with proof)
-Drop scans/photos of certificates here and list them below. Use real years.
+
+Scanned originals, real years.
 
 | Item | Type | Proof file | Year |
 |---|---|---|---|
-| [Robotics — ATL/WRO/FLL/school] | competition | `[file.jpg]` | `[20__]` |
-| [Coding contest] | contest | `[file.jpg]` | `[20__]` |
-| [Arduino / Raspberry Pi build] | project | `[photo/link]` | `[20__]` |
-| [SOF NCO / olympiad] | olympiad | `[file.jpg]` | `[20__]` |
-| CBSE Class X — Computer Applications | marksheet | `[file]` | `[20__]` |
+| ICSE Class X — Computer Applications 88/100, Science 83/100 | marksheet | `ansh_marks.jpg` | 2024 |
+| RoboCup Junior — North India regional, Rescue Line | robotics | `ansh_robo.png` | 2022 |
+
+The RoboCup robot followed a line and cleared an autonomous course — North India regional, Dec 2022.
+My cybersecurity tools + write-ups (2026) are in the other folders, not here — this folder's just for the older pre-security stuff.
